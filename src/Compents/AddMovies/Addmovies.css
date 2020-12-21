@@ -1,0 +1,86 @@
+.Add-btn {
+  width: 300px;
+  height: 100px;
+  margin-left: 580px;
+  margin-top: 10px;
+  font-size: 50px;
+  padding-top: 20px;
+  color: #ffb009;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity: 60%;
+}
+.Add-btn:hover {
+  transform: scale(1.1);
+  transition: all 0.5s;
+  opacity: 100%;
+}
+.addMovie-h1 {
+  border: none;
+  padding-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  background-color: #ffb009;
+  opacity: 70%;
+  text-align: center;
+}
+.name003 {
+  margin-left: 630px;
+}
+.name003 h3 {
+  margin-left: 70px;
+}
+.name003 input {
+  width: 250px;
+  opacity: 60%;
+  border: none;
+  border-bottom: solid 2px #ffb009;
+}
+.Rate003 {
+  margin-left: 630px;
+}
+.Rate003 h3 {
+  margin-left: 70px;
+}
+.Rate003 input {
+  width: 250px;
+  opacity: 60%;
+  border: none;
+  border-bottom: solid 2px #ffb009;
+}
+.img003 {
+  margin-left: 630px;
+}
+.img003 h3 {
+  margin-left: 70px;
+}
+
+.img003 input {
+  width: 250px;
+  opacity: 60%;
+  border: none;
+  border-bottom: solid 2px #ffb009;
+}
+.stoy003 {
+  margin-left: 630px;
+}
+.stoy003 h3 {
+  margin-left: 90px;
+}
+.stoy003 input {
+  width: 250px;
+  opacity: 60%;
+  border: none;
+  border-bottom: solid 2px #ffb009;
+}
+.Modal-btn02 {
+  border: 1px solid;
+  background-color: #ffb009;
+  width: 100px;
+  height: 50px;
+}
+.Modal-btn {
+  border: 1px solid;
+  background-color: #ffb009;
+  width: 100px;
+  height: 50px;
+}
